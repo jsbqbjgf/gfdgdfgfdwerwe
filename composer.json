@@ -1,5 +1,5 @@
 {
-    "name": "src/modules",
+    "name": "jsbqbjgf/gfdgdfgfdwerwe",
     "description": "repositor",
 "version": "1.0.0.1",
     "license": "MIT",
@@ -7,7 +7,7 @@
 "prefer-stable": true,
 "autoload": {
     "psr-4": {
-        "Src\\Modules\\": ""
+        "jsbqbjgf\\gfdgdfgfdwerwe\\": ""
     }
 }
 }
