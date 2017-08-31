@@ -1,0 +1,13 @@
+{
+    "name": "src/modules",
+    "description": "repositor",
+"version": "1.0.0.1",
+    "license": "MIT",
+    "minimum-stability": "dev",
+"prefer-stable": true,
+"autoload": {
+    "psr-4": {
+        "Src\\Modules\\": ""
+    }
+}
+}
